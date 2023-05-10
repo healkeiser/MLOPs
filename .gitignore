@@ -10,3 +10,4 @@ checkpoints/*/
 *.createtimes
 *.modtimes
 /data/dependencies/python/
+.DS_Store
